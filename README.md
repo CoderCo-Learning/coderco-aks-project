@@ -2,6 +2,8 @@
 
 This project focuses on deploying a secure application on a Production-grade Kubernetes cluster using Azure AKS.
 
+![image](https://github.com/user-attachments/assets/1483b46a-c629-421b-a76e-da230397b096)
+
 It includes end-to-end infrastructure provisioning using Azure, Kubernetes, Terraform, CI/CD pipelines, ArgoCD, Helm, ExternalDNS and CertManager.
 
 ## Task/Assignment 📝
